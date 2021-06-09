@@ -14,3 +14,8 @@ Here is a growing collection of resourses and helpful commands to know when work
 - [git pull](./Commands/Pull.md)
 - [git status](./Commands/Status.md)
 - [git clone](./Commands/Clone.md)
+
+## External Resoures
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+- [git Documentation](https://git-scm.com/docs)
+- [gitigore Documentation](https://git-scm.com/booken/v2/Git-Branching-Branches-in-a-Nutshell)
